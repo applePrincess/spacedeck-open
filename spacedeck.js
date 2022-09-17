@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 "use strict";
 
 const db = require('./models/db.js');

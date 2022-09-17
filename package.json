@@ -60,6 +60,9 @@
     "type": "git",
     "url": "https://github.com/spacedeck/spacedeck-open.git"
   },
+  "bin": {
+    "spacedeck": "spacedeck.js"
+  },
   "keywords": [],
   "author": "Lukas F. Hartmann, Martin Güther",
   "license": "AGPLv3"
